@@ -1,3 +1,4 @@
+![logo](https://github.com/Akki94-web/Akki94-web/blob/main/Git%20back.jpeg)
 <h1 align="center">Hi 👋, I'm Akshay Patil</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alr="data science" width="300" src="https://miro.medium.com/max/1400/1*_zcVnX2xGxMVgjkN7tlRMQ.gif">
